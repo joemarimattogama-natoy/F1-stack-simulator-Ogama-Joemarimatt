@@ -1,0 +1,16 @@
+Name: Joemari Matt I. Ogama 				Section: BSIT WMT 2-2 Date:OCT 27,2026
+
+1. Match each job to the correct technology.
+a. Defines the heading, input, and buttons: HTML
+b. Sets the custom block width to 50px: CSS
+c. Supplies btn-success and bg-primary: Bootstrap
+d. Stores the values and implements push(): JavaScript Stack class
+e. Selects #stack and inserts visible blocks: jQuery
+2. What does #stack select? Does the starter Push button have an id?
+#stack selects the element with id="stack". The starter Push button does not have an id attribute.
+3. After all four insertion statements run, write the displayed values from top to bottom and give the stack size. Which value would Pop remove first?
+The displayed values are 400, 300, 200, 100 from top to bottom. The stack size is 4. Pop would remove 400 first.
+4. Does the visible 500 prove that the program has performed Pop? Explain.
+No. The 500 is a static sample block already written in the HTML. It was not added by a pop() call and is not one of the four values stored in the stack.
+5. Write one question about connecting the input or buttons to the stack that you want answered during the demonstration.
+
